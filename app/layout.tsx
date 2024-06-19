@@ -16,7 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cabin.className}>{children}</body>
+      <body className={cabin.className + " bg-black flex justify-center"}>
+        <div className="w-3/6">{children}</div>
+      </body>
     </html>
   );
 }
