@@ -25,7 +25,7 @@ export default function Menu() {
       <p className="text-lg text-white text-center p-2">Juazeiro do Norte, CE, Brazil.</p>
       <h1 className="italic text-3xl text-white mt-20">Latest Projects</h1>
       <p className="text-lg text-white mt-4 light mb-8">
-        Here are some of my projects that I have done throughout my career as a fullstack developer.
+        Here are some of my projects that I have done throughout my career as a frontend developer.
       </p>
       <div className="flex justify-center mb-8">
         <div className="outline outline-1 outline-offset-2 outline-gray-600 rounded-lg">
